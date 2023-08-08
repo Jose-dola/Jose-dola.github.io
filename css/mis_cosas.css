@@ -1,3 +1,8 @@
 p {
     text-align: justify;
 }
+
+.resize_logo {
+    width:15rem;
+    height:3rem;
+}
