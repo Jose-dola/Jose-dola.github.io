@@ -6,3 +6,17 @@ p {
     width:15rem;
     height:3rem;
 }
+
+.s-education {
+    padding-top: 15rem;
+    padding-bottom: 9rem;
+    background-color: #f1f1f1;
+    position: relative;
+}
+
+.s-jobs {
+    padding-top: 15rem;
+    padding-bottom: 9rem;
+    background-color: #FFFFFF;
+    position: relative;
+}
