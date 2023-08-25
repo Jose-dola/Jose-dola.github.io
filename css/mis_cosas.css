@@ -20,3 +20,11 @@ p {
     background-color: #FFFFFF;
     position: relative;
 }
+
+.contact__infos {
+    color: white;
+}
+
+.contact_hyperlink {
+    color: white;
+}
